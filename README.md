@@ -1,4 +1,4 @@
-# Análisis de Ingresos por Planes de Telecomunicaciones - Megaline (ES) 📊
+# Análisis de Ingresos por Planes de Telecomunicaciones - Megaline📊
 Este proyecto de análisis de datos explora el comportamiento de los clientes del operador de telecomunicaciones Megaline para determinar cuál de sus planes de prepago, Surf o Ultimate, genera mayores ingresos. 💰 El objetivo principal es proporcionar información valiosa al departamento comercial para optimizar la asignación del presupuesto de publicidad. 🎯
 
 Analizamos datos de 500 clientes de Megaline en 2018, incluyendo su ubicación 🗺️, el plan utilizado 📞, la cantidad de llamadas realizadas 🗣️ y los mensajes de texto enviados ✉️. El análisis se centra en identificar patrones de consumo y en determinar, mediante pruebas estadísticas, qué plan aporta más ingresos promedio. 📊
@@ -23,7 +23,7 @@ Habilidades técnicas:
 
 ---
 
-# Telecommunications Plan Revenue Analysis - Megaline (EN) 🚀
+# Telecommunications Plan Revenue Analysis - Megaline🚀
 This data analysis project investigates the behavior of Megaline telecom operator's customers to determine which of their prepaid plans, Surf or Ultimate, generates more revenue. 💰 The primary goal is to provide valuable insights to the commercial department for optimizing advertising budget allocation. 🎯
 
 Data from 500 Megaline customers in 2018 was analyzed, including their location 🗺️, the plan used 📞, the number of calls made 🗣️, and text messages sent ✉️. The analysis focuses on identifying consumption patterns and statistically determining which plan contributes more average revenue. 📊
